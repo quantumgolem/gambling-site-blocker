@@ -1,0 +1,8 @@
+! Title: Gambling Site Blocker
+! Description: Blocks annoying gambling sites
+
+||sunnyplayer.com^
+||stargames.com^
+||sunmaker^
+||mybet.de^
+||casinoeuro.com^
